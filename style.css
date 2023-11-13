@@ -1,7 +1,14 @@
-.cont {
+.cont flr{
     border: 1px solid #58f2a5;
     padding: 10px;
     margin: 10px;
     background: #de97ea;
+    border-radius: 10PX;
+}
+.cont2 flr {
+    border: 1px solid #10864b;
+    padding: 10px;
+    margin: 10px;
+    background: #813a8d;
     border-radius: 10PX;
 }
