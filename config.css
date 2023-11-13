@@ -2,7 +2,7 @@
 /*define a borda, padding, cor de fundo e arredondamento de borda do conteiner*/
 
 .cont {
-    border: 1px solid #8a2020;
+    border: 1px solid #1b0b0b;
     padding: 10px;
     margin: 10px;
     background: #8BA9E8;
@@ -10,10 +10,10 @@
 }
 
 .cont2 {
-    border: 1px solid #ccc;
+    border: 1px solid #0f0c0c;
     padding: 10px;
     margin: 10px;
-    background: #7623b9;
+    background: #b57be4;
     border-radius: 10px;
 }
 .classebellingham{
