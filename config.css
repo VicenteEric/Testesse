@@ -18,8 +18,8 @@
 }
 .classebellingham{
     border: 1px solid rgb(226, 48, 16);
-    padding: 15px;
-    margin: 15px;
+    padding: 10px;
+    margin: 10px;
     background: rgb(241, 218, 8);
     border-radius: 10px;
 }
@@ -36,7 +36,7 @@
 }
 
 .box2 {
-    width: 50%;
+    width: 25%;
 }
 
 /*adiciona display flex em linha*/
