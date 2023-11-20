@@ -12,6 +12,16 @@
     background: #813a8d;
     border-radius: 10PX;
 }
+
+.cont3 {
+    border: 1px solid #4eca8c;
+    padding: 10px;
+    margin: 10px;
+    background: #813a8d;
+    border-radius: 10PX;
+}
+
+
 h1, h2, h3 {
     font-family: 'Sonsie One', cursive;
     color: #2a2a2a;
