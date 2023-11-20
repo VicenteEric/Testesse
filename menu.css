@@ -66,3 +66,9 @@
     background-color: var(--cor-hover);
     /*coloca hover apenas nos submenus*/
 }
+
+li a:hover {
+
+    background-color:#A6A6A6;
+    /*coloca hover apenas nos submenus*/
+}
