@@ -63,7 +63,7 @@
 
 .menu ul ul li a:hover {
 
-    background-color: #A6A6A6;
+    background-color: var(--cor-hover);
     /*coloca hover apenas nos submenus*/
 }
 
