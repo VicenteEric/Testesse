@@ -35,6 +35,8 @@
 
 .box2 {
     width: 50%;
+    border: 1px solid #0f0c0c;
+    background: #813a8d;
 }
 
 /*adiciona display flex em linha*/
