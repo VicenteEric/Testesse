@@ -23,7 +23,7 @@
 
 .menu ul li a {
     /*define a cor do texto dos menus*/
-    color: var(--cor-primaria);
+    color: var(#7d99ff);
     /*retira o sublinhado dos links*/
     text-decoration: none;
     /*alinha os links em linha*/
