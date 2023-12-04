@@ -72,6 +72,6 @@
 li a:hover {
 
     background-color:#A6A6A6;
-    text-align: center;
+    vertical-align: center;
     /*coloca hover apenas nos submenus*/
 }
