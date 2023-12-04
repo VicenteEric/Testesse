@@ -8,11 +8,7 @@
     --cor-primaria: #000000;
 }
 
-    .menu {
-        display: table-cell;
-        vertical-align: center;
-
-    }
+   
 /**/
 .menu ul {
     list-style-type: none;
