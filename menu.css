@@ -57,7 +57,7 @@
 
 .menu ul ul li a {
     display: flex;
-    align-items: center;
+    vertical-align: middle ;
     background-color: #BD7DFF;
     height: auto;
     /*cor de fundo dos submmenus*/
