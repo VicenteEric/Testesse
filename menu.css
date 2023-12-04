@@ -57,7 +57,7 @@
 
 .menu ul ul li a {
     display: flex;
-    vertical-align: middle ;
+    align-items: center;
     background-color: #BD7DFF;
     height: auto;
     /*cor de fundo dos submmenus*/
@@ -72,6 +72,6 @@
 li a:hover {
 
     background-color:#A6A6A6;
-    vertical-align: middle ;
+    text-align: center;
     /*coloca hover apenas nos submenus*/
 }
